@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "GeoCRON.Controllers.ParserController",
+    "Method": "GetGeoInfo",
+    "RelativePath": "api/Parser/GetGeoInfo/{ipAddress}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ipAddress",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
